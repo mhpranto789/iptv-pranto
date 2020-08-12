@@ -1,0 +1,50 @@
+#EXTM3U
+
+#SOURCEITbd04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="BDIX01",CORONA LIVE [BD]
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="BDIX01",Gazi Tv
+PWdUZHowbUx6dG1iMWgyWXZZSGRmbG1laGQyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BDIX01",Maasranga
+PT1BTzFOVGJ1TTNhdVZIYWo5U1luNVdZeU5YWWgxMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg" group-title="BDIX01",Asian TV
+NFUzTXQ1eWNyNVdkb04yTDJSM1h1RldhekYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="BDIX01",ATN Bangla
+PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlsYjBGMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg" group-title="BDIX01",ATN News
+NFUzTXQ1eWNyNVdkb04yTHpkWFp1OWxiMEYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg" group-title="BDIX01",Banglavision TV
+PWdUZHowbUx6dG1iMWgyWXY0MmJwTlhhMjlWWXNkbWJoSjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="BDIX01",Boishakhi TV
+PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOVZhb3RXWW9OWGF2SjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="BDIX01",BTV World
+PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzSjNiMzlsZDBKMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/390px-Channel9_bd.svg.png" group-title="BDIX01",Channel 9
+PT1BTzFOVGJ1TTNhdVZIYWo5U09meFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg" group-title="BDIX01",Channel 24
+PWdUZHowbUx6dG1iMWgyWXZRak1meFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="BDIX01",Channel I
+PT1BTzFOVGJ1TTNhdVZIYWo5U2FmeFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="BDIX01",DBC News
+NFUzTXQ1eWNyNVdkb04yTHpkWFp1OTFZaVIyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/img/toplogo.png" group-title="BDIX01",Deepto TV
+PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOTFiMEJYWmxSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://www.desh.tv/images/siteicons/logo.png" group-title="BDIX01",Desh TV
+PWdUZHowbUx6dG1iMWgyWXZZSGRmaDJjbFIyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="BDIX01",Duronto TV
+PWdUZHowbUx6dG1iMWgyWXZZSGRmOUdkdTltYzFSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
