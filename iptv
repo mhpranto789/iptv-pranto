@@ -46,10 +46,12 @@ PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOTFiMEJYWmxSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhk
 #EXTINF:-1 tvg-logo="https://www.desh.tv/images/siteicons/logo.png" group-title="BDIX01",Desh TV
 PWdUZHowbUx6dG1iMWgyWXZZSGRmaDJjbFIyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="BDIX01",Duronto TV
-PWdUZHowbUx6dG1iMWgyWXZZSGRmOUdkdTltYzFSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-jlHYnZVek01RWpPeVFqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
-#Sourcebd05
+
+#EXTINF:-1 tvg-logo="" group-title="BDIX06",Sony Aath
+NFUzTXQ1Q081NTJiejl5Y3NoMkwwRWpMek1UTXVVRE15NHlNd0V6THZvRGMwUkhh
+
+
+
 
 
 
@@ -384,3 +386,18 @@ NFUzTXQ1eWNyNVdkb04yTHpkWFp1OTFieVZYWnZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhh
 NFUzTXQ1eWNyNVdkb04yTHpkWFp1OUZibDVtYmhoMll2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 #EXTINF:-1 tvg-logo="http://www.duronto.tv/global/admin/images/setting/logo2.png" group-title="BDIX01",Duronto TV
 PWdUZHowbUx6dG1iMWgyWXZZSGRmOUdkdTltYzFSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="BDIX09",Sony Pix
+PWdUZHowbUw0bEdjNTUyYno5eWNzaDJMNUVqTHpNVE11VURNeTR5TXdFekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-logo="" group-title="BDIX11",NAT GEO WILD
+NFUzTXQ1Q2R6bEdiNUZHYnc5Q1pzbDJkdlYyWjBGbWJ2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
+#EXTINF:-1 tvg-logo="" group-title="BDIX11",& Prive HD
+PWdUZHowbUx6dG1iMWgyWXZnak10VW1kcEpIY2s1V1l2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="" group-title="OTHER",SONY SAB HD
+PWdUZHowbUx1bG1MRWhrUUJObEx5SURNMzhDWm85MWNzaDJMMFZtYnVrMmR1eEdidU1uTHpCSGNoSmphdFlqTndNV0x0OXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="" group-title="OTHER",SONY YAY
+PT1BTzFOVGJ1NFdhdWtYWVpsbmJ2TmxMM0lETTM4Q1pvOTFjc2gyTDBWbWJ1azJkdXhHYnVNbkx6QkhjaEpqYXRZak53TVdMdDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="" group-title="OTHER",SONY TV HD
+PT1BTzFOVGJ1Z1haazVXYXZFV2FrNVdhNTUyYno5U1oybEdidkFETTNJak8wVm1idU1uYmtSbUxoeFdabGgyTHZvRGMwUkhh
