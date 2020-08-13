@@ -1,8 +1,8 @@
 #EXTM3U
 
 #SOURCEITbd04
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="BDIX01",CORONA LIVE [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png" group-title="BDIX01",Gazi Tv
 PWdUZHowbUx6dG1iMWgyWXZZSGRmbG1laGQyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
@@ -505,8 +505,8 @@ PT1BTzFOVGJ1UTNjcHhXZWh4R2N2MDJidnAzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1M
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="BDIX01",Zee Bangla
 PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlWWmxwM0xsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/b4u_music.jpg" group-title="BDIX01",B4U Music
-PT1BTzFOVGJ1TTNhdVZIYWo5eVlwTlhkdDlWZDBJMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us_hd.jpg" group-title="BDIX01",TLC HD
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pvOTFZc1IzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
@@ -535,8 +535,8 @@ PT1BTzFOVGJ1TTNhdVZIYWo5eWR2NTJYMFYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1M
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/09/24/cnbc.jpg?itok=HvR2FBUl    " group-title="BDIX01",CNBC18
 PWdUZHowbUx6dG1iMWgyWXZNbVl1TjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="" group-title="BDIX01",APN
-NFUzTXQ1eWNyNVdkb04yTHpkWFp1OWxid0YyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
+
+
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_home.jpg" group-title="BDIX01",PTV Home
 NFUzTXQ1eWNyNVdkb04yTGwxMmJvOWxkMEIzTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
